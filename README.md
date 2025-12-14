@@ -5,13 +5,14 @@
 ## Tech Stack 
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=4E5B93" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]&nbsp;
 [<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=red" alt="Laravel logo" title="Laravel" height="25" />][tech_tools_anchor]&nbsp;
-[<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonwebservices&logoColor=F7C215" alt="AWS logo" title="AWS" height="25" />][tech_tools_anchor]&nbsp;
+[<img src="https://img.shields.io/badge/Nodejs-5b5b5b?logo=node.js" alt="NodeJS logo" title="NodeJS" height="25" />][tech_tools_anchor]&nbsp;
+[<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=F7C215" alt="AWS logo" title="AWS" height="25" />][tech_tools_anchor]&nbsp;
 
 
 ## Contact
 <p align="center">
 <a href="mailto:thaimv.dev@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="thaimv.dev@gmail.com" height="40" /></a>
-<a href="https://www.linkedin.com/in/thaimv2k1/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="thaimv2k1" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/thaimv2k1/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="thaimv2k1" height="40" width="40" /></a>
 </p>
 
 
